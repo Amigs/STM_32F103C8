@@ -1,0 +1,16 @@
+main.c:79:6:runMode	24	static
+main.c:91:6:setAlarma	4	static
+main.c:94:6:alarm	16	static
+main.c:97:6:setTime	24	static
+main.c:127:6:chronometer	40	static
+main.c:161:6:temporizador	4	static
+main.c:170:5:main	16	static
+main.c:295:6:SystemClock_Config	88	static
+main.c:341:13:MX_TIM1_Init	32	static
+main.c:387:13:MX_TIM2_Init	32	static
+main.c:432:13:MX_TIM3_Init	32	static
+main.c:477:13:MX_GPIO_Init	40	static
+main.c:520:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:554:6:usbrxcallback	16	static
+main.c:558:6:buzzer	24	static
+main.c:573:6:Error_Handler	4	static,ignoring_inline_asm
